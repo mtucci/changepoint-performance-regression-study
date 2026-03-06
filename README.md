@@ -14,7 +14,7 @@ While the curated datasets needed to run the evaluations can be unpacked from `d
 
 ### Annotation tool
 
-The annotation tool described in Section 7.1 is available at [https://github.com/mtucci/AnnotateChange][https://github.com/mtucci/AnnotateChange]. This fork contains the modifications we made to the original tool to adapt it to our needs (described in the same section of the paper). The original tool by G.J.J. van den Burg is available at [https://github.com/alan-turing-institute/AnnotateChange](https://github.com/alan-turing-institute/AnnotateChange).
+The annotation tool described in Section 7.1 is available at [https://github.com/mtucci/AnnotateChange](https://github.com/mtucci/AnnotateChange). This fork contains the modifications we made to the original tool to adapt it to our needs (described in the same section of the paper). The original tool by G.J.J. van den Burg is available at [https://github.com/alan-turing-institute/AnnotateChange](https://github.com/alan-turing-institute/AnnotateChange).
 
 
 ### RQ1: Performance time series characteristics
