@@ -3,6 +3,8 @@ Replication package for the paper:
 "Evaluating Change Point Detection Methods for Software Performance Regression Analysis"  
 by Diego Elias Costa, Michele Tucci, Luca Traini, Daniele Di Pompeo, Thomas Bach, Francois Farquet, David Daly, Simon Eismann, Petr Tůma, Vittorio Cortellessa, André van Hoorn.
 
+Data are available at [https://doi.org/10.5281/zenodo.18889836](https://doi.org/10.5281/zenodo.18889836).
+
 ### Curated datasets
 
 Scripts to curate the original raw data can be found at [https://github.com/DiegoEliasCosta/perf-change-dataset/tree/main/scripts](https://github.com/DiegoEliasCosta/perf-change-dataset/tree/main/scripts).
